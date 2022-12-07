@@ -1,0 +1,10 @@
+a = int(input("Enter a number to be divided: "))
+b = int(input("Enter a number to get divided from: "))
+Quotient = int(a/b)
+Divisor = b
+Dividend = a
+Remainder = a%b
+print("Divisor=", Divisor)
+print("Dividend=", Dividend)
+print("Quotient=", Quotient)
+print("Remainder=", Remainder)
